@@ -1,12 +1,12 @@
 {
-    "NAMA_PROJECT_GLITCH": "",
+    "NAMA_PROJECT_GLITCH": "shelled-equal-hornet",
     "PORT": "8080",
-    "PREFIX": "",
-    "TOKEN": "",
-    "ID_CHANNEL": "",
-    "TAG": "",
-    "ID_ROLE": "",
+    "PREFIX": "!",
+    "TOKEN": "ODE3NjMwMjM0MzkxMDg1MDc4.YEMTfg.bbT8pTgv7447gPEPo3xVEMEL7NA",
+    "ID_CHANNEL": "876047828886102036",
+    "TAG": "[WARGA]",
+    "ID_ROLE": "876047768106442772",
     "ID_ROLE_REMOVE": "",
-    "STATUS": "",
-    "TYPE_STATUS": "" 
+    "STATUS": "Say !register Nama_Kamu",
+    "TYPE_STATUS": "STREAMING" 
 }
